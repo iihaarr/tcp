@@ -1,0 +1,6 @@
+C:/Users/New/Desktop/sockets/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/New/Desktop/sockets/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/New/Desktop/sockets/build/client/CMakeFiles/tsp_client.dir
+C:/Users/New/Desktop/sockets/build/client/CMakeFiles/ALL_BUILD.dir
+C:/Users/New/Desktop/sockets/build/server/CMakeFiles/tsp_server.dir
+C:/Users/New/Desktop/sockets/build/server/CMakeFiles/ALL_BUILD.dir

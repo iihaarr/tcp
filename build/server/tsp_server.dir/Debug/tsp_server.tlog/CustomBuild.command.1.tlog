@@ -1,0 +1,10 @@
+^C:\USERS\NEW\DESKTOP\SOCKETS\SERVER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/New/Desktop/sockets -BC:/Users/New/Desktop/sockets/build --check-stamp-file C:/Users/New/Desktop/sockets/build/server/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
